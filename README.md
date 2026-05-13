@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040082
+# Name:Divesh A
+# Date:13-05-2026
 
 
 # AIM:
@@ -22,6 +22,8 @@ To develop the Library Management System using Star UML
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
+
+<img width="831" height="744" alt="image" src="https://github.com/user-attachments/assets/58459557-5402-4a70-8d6e-4dde690bde6f" />
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
@@ -46,6 +48,10 @@ Specifying the context and requirements of a system
 
 # CLASS DIAGRAM
 
+
+<img width="755" height="694" alt="image" src="https://github.com/user-attachments/assets/72648e9d-e918-4e6c-bd33-b0e5e3aae4b2" />
+
+
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
 among software engineers to document software architecture, class diagrams are a type of structure diagram because they describe what must be present in the system being modeled. No matter your level of familiarity with UML or class diagrams, our UML software is designed to be simple and easy to use.
@@ -62,6 +68,10 @@ Create detailed charts that…
 
 # COMMUNICTION DIAGRAM:
 
+
+<img width="780" height="543" alt="image" src="https://github.com/user-attachments/assets/ca7867b1-b2b1-4d37-9fcd-4119aadd8216" />
+
+
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
@@ -70,6 +80,10 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 # PACKAGE DIAGRAM:
+
+
+<img width="763" height="516" alt="image" src="https://github.com/user-attachments/assets/6d2f4783-f612-4905-834b-9f26efdd13d2" />
+
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
@@ -81,10 +95,9 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
-
-
 # ACTIVITY DIAGRAM:
+
+<img width="762" height="782" alt="image" src="https://github.com/user-attachments/assets/cd85625e-0e36-438c-a6ec-b6b8ba74bfda" />
 
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
@@ -102,6 +115,10 @@ Describe the steps performed in a UML use case.
 
 # SEQUENCE DIAGRAM
 
+
+<img width="777" height="545" alt="image" src="https://github.com/user-attachments/assets/1a21bedf-30d1-43b5-a8df-cdf4de854da1" />
+
+
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
@@ -116,10 +133,6 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
-
-
-
-
 
 
 # RESULT
